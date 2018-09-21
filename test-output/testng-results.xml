@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60881" started-at="2018-06-20T06:08:35Z" finished-at="2018-06-20T06:09:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60881" started-at="2018-06-20T06:08:35Z" finished-at="2018-06-20T06:09:36Z">
+      <class name="com.newtours.demoaut.OneWayFlightBooking">
+        <test-method status="PASS" signature="launchBroser()[pri:0, instance:com.newtours.demoaut.OneWayFlightBooking@42e26948]" name="launchBroser" is-config="true" duration-ms="6433" started-at="2018-06-20T06:08:35Z" finished-at="2018-06-20T06:08:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBroser -->
+        <test-method status="PASS" signature="OneWayFlightBookingTest()[pri:0, instance:com.newtours.demoaut.OneWayFlightBooking@42e26948]" name="OneWayFlightBookingTest" duration-ms="53993" started-at="2018-06-20T06:08:42Z" finished-at="2018-06-20T06:09:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OneWayFlightBookingTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.newtours.demoaut.OneWayFlightBooking@42e26948]" name="closeBrowser" is-config="true" duration-ms="430" started-at="2018-06-20T06:09:36Z" finished-at="2018-06-20T06:09:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.newtours.demoaut.OneWayFlightBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
