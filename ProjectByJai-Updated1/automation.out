@@ -1,0 +1,22 @@
+2018-10-07 20:10:492 INFO  TestBase:42 - **************testRegistrationStarted***************
+2018-10-07 20:10:571 INFO  LoginPage:42 - clicked on sign in link...
+2018-10-07 20:10:08 INFO  LoginPage:77 - entering registration email..1538922656008@gmail.com
+2018-10-07 20:10:543 INFO  LoginPage:84 - clicking on create an account button...
+2018-10-07 20:10:779 INFO  RegistrationPage:93 - selecting mr checkbox..
+2018-10-07 20:10:266 INFO  RegistrationPage:105 - entering firstName..TESTfirstName
+2018-10-07 20:10:56 INFO  RegistrationPage:111 - entering lastname..TESTlastname
+2018-10-07 20:10:501 INFO  RegistrationPage:123 - entering password..TESTpassword
+2018-10-07 20:10:871 INFO  RegistrationPage:197 - entering address..TESTaddress
+2018-10-07 20:10:812 INFO  RegistrationPage:137 - Select day ..5
+2018-10-07 20:10:307 INFO  RegistrationPage:154 - Select month ..June
+2018-10-07 20:10:655 INFO  RegistrationPage:171 - Select year ..2017
+2018-10-07 20:10:656 INFO  RegistrationPage:179 - entering yourAddressFirstName..TESTyourAddressFirstName
+2018-10-07 20:10:337 INFO  RegistrationPage:185 - entering yourAddressLastName..TESTyourAddressLastName
+2018-10-07 20:10:943 INFO  RegistrationPage:191 - entering yourAddressCompany..TESTyourAddressCompany
+2018-10-07 20:10:528 INFO  RegistrationPage:209 - entering yourAddressCity..TESTyourAddressCity
+2018-10-07 20:10:16 INFO  RegistrationPage:215 - entering yourAddressState..Alaska
+2018-10-07 20:10:312 INFO  RegistrationPage:221 - entering yourAddressPostCode..99501
+2018-10-07 20:10:676 INFO  RegistrationPage:239 - entering mobilePhone..9999999888
+2018-10-07 20:10:78 INFO  RegistrationPage:245 - entering addressAlias..TESTaddressAlias
+2018-10-07 20:10:585 INFO  RegistrationPage:251 - clicked on registration..[[ChromeDriver: chrome on XP (c91effab30bd45206abccd9cb369ddda)] -> xpath: //*[@id='submitAccount']]
+2018-10-07 20:10:372 INFO  TestBase:67 - **************testRegistrationFinished***************
